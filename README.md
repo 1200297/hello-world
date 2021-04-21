@@ -1,3 +1,1 @@
-# hello-world
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+console.log('Hello Word');
